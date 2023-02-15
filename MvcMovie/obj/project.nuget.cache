@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RgT94E5mfY9KzunShjF4c25uBrOHjjyYD+v6WEs//aD/vMtsZ1yy9MsLjx/G5/r39HQcdwDh7MEfaF4/XYJPvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shrey\\source\\repos\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shrey\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
